@@ -4,6 +4,7 @@ border: 2px solid red;
    background: yellow;
     color:black;
      text-decoration: none;
+      border-radius: 25px;
 }
 
 nav a:hover {
@@ -12,6 +13,7 @@ border 2 px solid red;
    background: black;
     color: yellow;
      text-decoration: none;
+            border-radius: 25px;
 }
 
 nav a.large {
