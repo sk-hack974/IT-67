@@ -1,1 +1,18 @@
+header a {
+border: 2px solid red;
+  padding: 10px;
+   background: yellow;
+    color:black;
+}
 
+header a:hover {
+border 2 px solid red;
+  padding: 10px;
+   background: black;
+    color: yellow;
+}
+
+header a.large {
+padding: 30px;
+font-size: 15px;
+}
