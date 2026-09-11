@@ -7,7 +7,6 @@ text-decoration: none;
 border-radius: 25px;
 justify-conntent: space-between;
 font-weight: bold;
-transition: background-color 0.3s ease
 }
 
 nav a:hover {
@@ -18,7 +17,7 @@ color: yellow;
 text-decoration: none;
 border-radius: 25px;
 font-weight: bold;
-transform: translateY(-2px);
+transition:1s linear;
 }
 
 nav a.large {
