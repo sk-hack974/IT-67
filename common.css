@@ -5,6 +5,7 @@ border: 2px solid red;
     color:black;
      text-decoration: none;
       border-radius: 25px;
+       justify-conntent: space-between;
 }
 
 nav a:hover {
