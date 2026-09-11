@@ -1,5 +1,4 @@
 nav a {
-border: 2px solid red;
 padding: 10px;
 background: yellow;
 color:black;
@@ -10,7 +9,6 @@ font-weight: bold;
 }
 
 nav a:hover {
-border: 2px solid red;
 padding: 10px;
 background: black;
 color: yellow;
@@ -18,7 +16,7 @@ text-decoration: none;
 border-radius: 25px;
 font-weight: bold;
 transition:1s linear;
-box-shadow: 0 5px 5px 5px blue;
+box-shadow: 0 4px 4px 4px black;
 }
 
 nav a.large {
