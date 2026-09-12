@@ -1,6 +1,5 @@
-nav a {
+li a.yellow {
 padding: 10px;
-background: yellow;
 color:black;
 text-decoration: none;
 border-radius: 25px;
@@ -8,7 +7,7 @@ justify-conntent: space-between;
 font-weight: bold;
 }
 
-nav a:hover {
+li a:hover {
 padding: 10px;
 background: black;
 color: yellow;
